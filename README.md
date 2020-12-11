@@ -20,6 +20,8 @@ This template can be edited by Microsoft Visio. You can derive your own _MPD_ ba
 
 The paper by Liang et al. also introduces three use cases and their corresponding _MPDs_. The _MPDs_ is also editable by Microsoft Visio. You are welcomed to adjust them for your own production processes, which are similar as described in the paper. 
 
+All Microsoft Visio files can be viewed by Microsoft Internet Explorer if necessary. 
+
 ## License
 BSD 3-Clause License
 
